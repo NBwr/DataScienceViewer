@@ -1,4 +1,4 @@
-# DataScience2018
+# Data Science 2020
 course material for LV581092
 
 I assume the following
